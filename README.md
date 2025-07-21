@@ -1,6 +1,6 @@
-# Social Network Analytics - Coding Assessment
+# Coding Assessment
 
-A complete full-stack social network analytics application with MongoDB aggregation, Node.js API with JWT authentication, React frontend with custom hooks, and comprehensive debugging solutions.
+A complete application with MongoDB aggregation, Node.js API with JWT authentication, React frontend with custom hooks, and comprehensive debugging solutions.
 
 ## 🏗️ Architecture Overview
 
